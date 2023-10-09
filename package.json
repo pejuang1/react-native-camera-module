@@ -1,5 +1,5 @@
 {
-  "name": "react-native-camera-module",
+  "name": "react-native-camera-modules",
   "version": "2.0.0",
   "description": "A high performance, fully featured, rock solid camera library for React Native applications",
   "nativePackage": true,
